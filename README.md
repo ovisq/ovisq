@@ -1,6 +1,6 @@
 ### Ovisq
 
-![Ovisq's Banner] (ovisq/ovisq_logo_transparent.png)
+![Ovisq's Banner](https://github.com/ovisq/ovisq/blob/c105da15b019dd1bf49cecdcad4e3df94500deed/ovisq_logo_transparent.png)
 
 # Creations
 - Loot Lounge Marketplace
