@@ -1,6 +1,8 @@
 ### Ovisq
 
-# Owner Of
+![Ovisq's Banner] (ovisq_logo_transparent.png)
+
+# Creations
 - Loot Lounge Marketplace
 - Gladiator Trade Bot
 - Snipe X Limited Sniper
