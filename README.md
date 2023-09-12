@@ -1,5 +1,9 @@
 ![Ovisq's Banner](https://github.com/ovisq/ovisq/blob/c105da15b019dd1bf49cecdcad4e3df94500deed/ovisq_logo_transparent.png)
 
+# Discord User
+User: @ovisq
+ID: 312317471744851989
+
 # Creations
 - Loot Lounge Marketplace
 - Gladiator Trade Bot
@@ -16,14 +20,12 @@
 - Rust
 - Svelte for JS
 
-### My Discord Servers
+# My Discord Servers
 - Loot Lounge https://discord.gg/TE2KUgETcg
 - Snipe X https://discord.gg/8neE2pdEJW
 - Gladiator https://discord.gg/Tu6PaBEqaa
 - Glade https://discord.gg/fV25jHsDJ6
 
 # Forums Profiles
-  C.io
-- https://v3rmillion.net/member.php?action=profile&uid=3081314
-  V3rmillion
-- https://cracked.io/Ovisq
+- C.io https://v3rmillion.net/member.php?action=profile&uid=3081314
+- V3rmillion https://cracked.io/Ovisq
