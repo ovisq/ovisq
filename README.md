@@ -1,8 +1,8 @@
 ![Ovisq's Banner](https://github.com/ovisq/ovisq/blob/c105da15b019dd1bf49cecdcad4e3df94500deed/ovisq_logo_transparent.png)
 
 # Discord User
-User: @ovisq
-ID: 312317471744851989
+- User: @ovisq
+- ID: 312317471744851989
 
 # Creations
 - Loot Lounge Marketplace
