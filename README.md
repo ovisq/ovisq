@@ -1,16 +1,33 @@
-### Hi there 👋
+### Ovisq
 
-<!--
-**ovisq/ovisq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Owner Of
+- Loot Lounge Marketplace
+- Gladiator Trade Bot
+- Snipe X Limited Sniper
+- Glade Trading Assistant
 
-Here are some ideas to get you started:
+# Languages I work with
+- Python (3 Years)
+- Go (1 Year)
+- Java (2 Years)
+- JavaScript (Just Started)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Road Map to Learn
+- Rust
+- Svelte for JS
+
+### My Discord Servers
+  Loot Lounge
+- https://discord.gg/TE2KUgETcg
+  Snipe X
+- https://discord.gg/8neE2pdEJW
+  Gladiator
+- https://discord.gg/Tu6PaBEqaa
+  Glade
+- https://discord.gg/fV25jHsDJ6
+
+# Forums Profiles
+  C.io
+- https://v3rmillion.net/member.php?action=profile&uid=3081314
+  V3rmillion
+- https://cracked.io/Ovisq
