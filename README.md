@@ -17,14 +17,10 @@
 - Svelte for JS
 
 ### My Discord Servers
-  Loot Lounge
-- https://discord.gg/TE2KUgETcg
-  Snipe X
-- https://discord.gg/8neE2pdEJW
-  Gladiator
-- https://discord.gg/Tu6PaBEqaa
-  Glade
-- https://discord.gg/fV25jHsDJ6
+- Loot Lounge https://discord.gg/TE2KUgETcg
+- Snipe X https://discord.gg/8neE2pdEJW
+- Gladiator https://discord.gg/Tu6PaBEqaa
+- Glade https://discord.gg/fV25jHsDJ6
 
 # Forums Profiles
   C.io
