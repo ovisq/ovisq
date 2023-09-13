@@ -28,5 +28,5 @@
 - Glade https://discord.gg/fV25jHsDJ6
 
 # Forums Profiles
-- C.io https://v3rmillion.net/member.php?action=profile&uid=3081314
-- V3rmillion https://cracked.io/Ovisq
+- V3rmillion https://v3rmillion.net/member.php?action=profile&uid=3081314
+- C.io https://cracked.io/Ovisq
