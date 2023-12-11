@@ -15,7 +15,8 @@
 - Python (3 Years)
 - Go (1 Year)
 - Java (2 Years)
-- JavaScript (Just Started)
+- Fullstack (3 Months)
+- Lua (2 Years)
 
 # Road Map to Learn
 - Rust
