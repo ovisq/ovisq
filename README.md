@@ -20,7 +20,6 @@
 
 # Road Map to Learn
 - Rust
-- Svelte for JS
 
 # My Discord Servers
 - Loot Lounge https://discord.gg/TE2KUgETcg
