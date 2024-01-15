@@ -28,6 +28,7 @@
 - Glade https://discord.gg/fV25jHsDJ6
 
 # Forums Profiles
-- V3rmillion https://v3rmillion.net/member.php?action=profile&uid=3081314 (OLD)
 - NEW V3rm https://v3rm.net/members/ovisq.4254/ (Due to Website takeover by BloxFlip)
 - C.io https://cracked.io/Ovisq
+
+- V3rmillion ~~https://v3rmillion.net/member.php?action=profile&uid=3081314~~ (OLD)
