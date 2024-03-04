@@ -1,7 +1,7 @@
 ![Ovisq's Banner](https://github.com/ovisq/ovisq/blob/c105da15b019dd1bf49cecdcad4e3df94500deed/ovisq_logo_transparent.png)
 
 # Discord User
-- Link: https://discord.gg/JprGENws
+- Link: https://discord.gg/KZ9KDWgSsT
 - User: @ovisq
 - ID: 312317471744851989
 
