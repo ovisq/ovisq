@@ -12,14 +12,14 @@
 - Glade Trading Assistant
 
 # Languages I work with
-- Python (3 Years)
-- Go (1 Year)
+- Python (5 Years)
+- Go (2 Years)
 - Java (2 Years)
-- Fullstack (3 Months)
+- Fullstack (6 Months)
 - Lua (2 Years)
 
 # Road Map to Learn
-- Rust
+- C++/C?
 
 # My Discord Servers
 - Loot Lounge https://discord.gg/TE2KUgETcg
