@@ -15,7 +15,7 @@
 - Python (5 Years)
 - Go (2 Years)
 - Java (2 Years)
-- Fullstack (6 Months)
+- Fullstack (9 Months)
 - Lua (3 Years)
 
 # Road Map to Learn
