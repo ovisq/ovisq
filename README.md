@@ -16,7 +16,7 @@
 - Go (2 Years)
 - Java (2 Years)
 - Fullstack (6 Months)
-- Lua (2 Years)
+- Lua (3 Years)
 
 # Road Map to Learn
 - C++/C?
