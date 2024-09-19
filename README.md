@@ -13,7 +13,7 @@
 
 # Languages I work with
 - Python (5 Years)
-- Lua (3 Years)
+- Lua (4 Years)
 - Go (2 Years)
 - Java (2 Years)
 - Fullstack (1 Year)
