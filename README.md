@@ -1,7 +1,7 @@
 ![Ovisq's Banner](https://github.com/ovisq/ovisq/blob/c105da15b019dd1bf49cecdcad4e3df94500deed/ovisq_logo_transparent.png)
 
 # Discord User
-- Link: https://discord.gg/KZ9KDWgSsT
+- Link: https://discord.gg/T2ztpnJGyt
 - User: @ovisq
 - ID: 312317471744851989
 
@@ -23,6 +23,7 @@
 - ???
 
 # My Discord Servers
+- Ovisq Tech https://discord.gg/T2ztpnJGyt
 - Loot Lounge https://discord.gg/TE2KUgETcg
 - Snipe X https://discord.gg/8neE2pdEJW
 - Gladiator https://discord.gg/Tu6PaBEqaa
