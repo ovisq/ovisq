@@ -17,10 +17,10 @@
 - Go (2 Years)
 - Java (2 Years)
 - Fullstack (1 Year)
-- C++ (1 Month)
+- C++ (2 Month)
 
 # Road Map to Learn
-- C++/C?
+- ???
 
 # My Discord Servers
 - Loot Lounge https://discord.gg/TE2KUgETcg
