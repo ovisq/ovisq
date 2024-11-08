@@ -17,7 +17,7 @@
 - Go (2 Years)
 - Java (2 Years)
 - Fullstack (1 Year)
-- C++ (2 Month)
+- C++ (2 Months)
 
 # Road Map to Learn
 - ???
