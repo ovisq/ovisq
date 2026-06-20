@@ -31,6 +31,6 @@
 
 # Forums Profiles
 - NEW V3rm https://v3rm.net/members/ovisq.4254/ (Due to Website takeover by BloxFlip)
-- C.io https://cracked.io/Ovisq
+- C.io ~~https://cracked.io/Ovisq~~ (Bye bye, c.io/c.to + n.to)
 
 - V3rmillion ~~https://v3rmillion.net/member.php?action=profile&uid=3081314~~ (OLD)
