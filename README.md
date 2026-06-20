@@ -13,11 +13,11 @@
 
 # Languages I work with
 - Python (5 Years)
-- Lua (4 Years)
-- Go (2 Years)
+- Lua (6 Years)
+- Go (3+ Years)
 - Java (2 Years)
-- Fullstack (1.5 Years)
-- C++ (1 Year)
+- Fullstack (2 Years)
+- C++ (2+ Years)
 
 # Road Map to Learn
 - ???
